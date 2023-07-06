@@ -1,1 +1,1 @@
-# CodeAcademyFinalProject-Full-Stack-App
+#  Full Stack App - Code Academy Final Project
